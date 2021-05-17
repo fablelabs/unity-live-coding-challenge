@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81a0088bd0acb0841b3776a68da601c4, type: 3}
+  m_Name: Frankenstein
+  m_EditorClassIdentifier: 
+  coverImage: {fileID: 2800000, guid: 207dd7895e5893544a01568ef232d44e, type: 3}
+  title: 'Frankenstein: Or, The Modern Prometheus'
+  author: Mary Wollstonecraft Shelley
+  blurb: "Mary Shelley\u2019s Frankenstein is a Gothic horror novel about a man named
+    Victor Frankenstein who discovers the secret to creating life. He uses this knowledge
+    to form a hideous monster, which becomes the source of his misery and demise.
+    The novel is presented as an epistolary nested narrative, following the first-person
+    accounts of Captain Walton, Victor Frankenstein, and the monster himself."
+  tags:
+  - Horror
+  - Dark
+  - Supernatural

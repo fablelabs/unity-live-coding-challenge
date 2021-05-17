@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81a0088bd0acb0841b3776a68da601c4, type: 3}
+  m_Name: Moby Dick
+  m_EditorClassIdentifier: 
+  coverImage: {fileID: 2800000, guid: 0bfaea848f0604a4781bbce170f3264f, type: 3}
+  title: Mmoby Dick; Or, The Whale
+  author: Herman Melville
+  blurb: 'Moby Dick is the story of Captain Ahab''s quest to avenge the whale that
+    ''reaped'' his leg. The quest is an obsession and the novel is a diabolical study
+    of how a man becomes a fanatic. But it is also a hymn to democracy. Bent as the
+    crew is on Ahab s appalling crusade, it is equally the image of a co-operative
+    community at work:'
+  tags:
+  - Adventure
+  - Sailing
+  - Whales

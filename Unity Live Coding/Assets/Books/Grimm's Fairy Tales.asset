@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81a0088bd0acb0841b3776a68da601c4, type: 3}
+  m_Name: Grimm's Fairy Tales
+  m_EditorClassIdentifier: 
+  coverImage: {fileID: 2800000, guid: e845d3e44fc06e847b42cfcfcca048e6, type: 3}
+  title: Grimm's Fairy Tales
+  author: Jacob Grimm & Wilhelm Grimm
+  blurb: "Originally titled Children\u2019s and Household Tales, The Complete Grimm\u2019s
+    Fairy Tales contains what have been the essential bedtime stories for children
+    worldwide for over two centuries. The Brothers Grimm, Jacob and Wilhelm, were
+    German linguists and cultural researchers who gathered legendary folklore and
+    aimed to collect the stories exactly as they heard them."
+  tags:
+  - Children
+  - Fairytale
+  - Fantasy
