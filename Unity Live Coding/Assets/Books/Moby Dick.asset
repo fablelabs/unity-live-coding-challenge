@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 81a0088bd0acb0841b3776a68da601c4, type: 3}
   m_Name: Moby Dick
   m_EditorClassIdentifier: 
-  coverImage: {fileID: 2800000, guid: 0bfaea848f0604a4781bbce170f3264f, type: 3}
+  coverImage: {fileID: 21300000, guid: 0bfaea848f0604a4781bbce170f3264f, type: 3}
   title: Mmoby Dick; Or, The Whale
   author: Herman Melville
   blurb: 'Moby Dick is the story of Captain Ahab''s quest to avenge the whale that

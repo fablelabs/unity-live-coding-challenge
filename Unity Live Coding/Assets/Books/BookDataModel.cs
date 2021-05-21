@@ -9,7 +9,7 @@ namespace Books
         /// <summary>
         /// The cover of the book
         /// </summary>
-        public Texture2D coverImage;
+        public Sprite coverImage;
 
         /// <summary>
         /// The human readable title of the book for display
